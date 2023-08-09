@@ -1,0 +1,31 @@
+{
+  "name": "hack-github-contributions-graph",
+  "version": "1.0.0",
+  "description": "This Repo Contains Program To Hack GitHub Contributions Graph And Fill The Empty Days.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YousifAbozid/Hack-GitHub-Contributions-Graph.git"
+  },
+  "keywords": [
+    "GitHub",
+    "Hack",
+    "Contributions",
+    "Graph",
+    "Fun"
+  ],
+  "author": "Yousif Abozid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YousifAbozid/Hack-GitHub-Contributions-Graph/issues"
+  },
+  "homepage": "https://github.com/YousifAbozid/Hack-GitHub-Contributions-Graph#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "simple-git": "^3.19.1"
+  }
+}
