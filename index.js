@@ -3,8 +3,8 @@ import simpleGit from 'simple-git' // https://www.npmjs.com/package/simple-git ,
 
 const git = simpleGit() // Create an instance of simpleGit
 const jsonFilePath = './data.json' // The json file to commit
-const startDate = new Date('2024-05-28') // Change this to your desired start date
-const endDate = new Date('2024-07-28') // Change this to your desired end date
+const startDate = new Date('2024-07-28') // Change this to your desired start date
+const endDate = new Date('2024-11-01') // Change this to your desired end date
 const commitsPerDay = 2 // Change this to your desired number of commits per day I set it to 20
 const timeBetweenCommits = 1 * 60 * 60 * 1000 // Change this to your desired time interval between commits per day. I set it to 1 hour in milliseconds
 const oneDay = 24 * 60 * 60 * 1000 // This is the number of milliseconds in a day, think about it as a step between startDate and endDate
