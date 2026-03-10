@@ -26,6 +26,6 @@
   "homepage": "https://github.com/YousifAbozid/Hack-GitHub-Contributions-Graph#readme",
   "dependencies": {
     "jsonfile": "^6.1.0",
-    "simple-git": "^3.19.1"
+    "simple-git": "^3.32.3"
   }
 }
